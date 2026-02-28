@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-02-28T03:31:11Z",
-  "version": "0.1",
+  "generated_at": "2026-02-28T05:41:17Z",
+  "version": "0.2",
   "note": "Auto-generated. Do not edit manually.",
   "skills": [
     {
-      "name": "skill-creator",
-      "score": 1.0,
+      "name": "git-essentials",
+      "score": 0.9955,
+      "score_7d": 1.0,
       "total_votes": 1,
+      "votes_7d": 1,
+      "positive_votes": 1,
+      "negative_votes": 0,
+      "unique_voters": 1,
+      "last_voted": "2026-02-28T03:30:44Z"
+    },
+    {
+      "name": "github",
+      "score": 0.9955,
+      "score_7d": 1.0,
+      "total_votes": 1,
+      "votes_7d": 1,
+      "positive_votes": 1,
+      "negative_votes": 0,
+      "unique_voters": 1,
+      "last_voted": "2026-02-28T03:30:41Z"
+    },
+    {
+      "name": "skill-creator",
+      "score": 0.9955,
+      "score_7d": 1.0,
+      "total_votes": 1,
+      "votes_7d": 1,
       "positive_votes": 1,
       "negative_votes": 0,
       "unique_voters": 1,
@@ -14,39 +38,82 @@
     },
     {
       "name": "task-decomposer",
-      "score": 1.0,
+      "score": 0.9955,
+      "score_7d": 1.0,
       "total_votes": 1,
+      "votes_7d": 1,
       "positive_votes": 1,
       "negative_votes": 0,
       "unique_voters": 1,
       "last_voted": "2026-02-28T03:31:01Z"
     },
     {
-      "name": "git-essentials",
-      "score": 1.0,
+      "name": "weather",
+      "score": 0.9955,
+      "score_7d": 1.0,
       "total_votes": 1,
+      "votes_7d": 1,
+      "positive_votes": 1,
+      "negative_votes": 0,
+      "unique_voters": 1,
+      "last_voted": "2026-02-28T03:30:27Z"
+    }
+  ],
+  "trending_7d": [
+    {
+      "name": "git-essentials",
+      "score": 0.9955,
+      "score_7d": 1.0,
+      "total_votes": 1,
+      "votes_7d": 1,
       "positive_votes": 1,
       "negative_votes": 0,
       "unique_voters": 1,
       "last_voted": "2026-02-28T03:30:44Z"
     },
     {
-      "name": "weather",
-      "score": 1.0,
-      "total_votes": 1,
-      "positive_votes": 1,
-      "negative_votes": 0,
-      "unique_voters": 1,
-      "last_voted": "2026-02-28T03:30:27Z"
-    },
-    {
       "name": "github",
-      "score": 1.0,
+      "score": 0.9955,
+      "score_7d": 1.0,
       "total_votes": 1,
+      "votes_7d": 1,
       "positive_votes": 1,
       "negative_votes": 0,
       "unique_voters": 1,
       "last_voted": "2026-02-28T03:30:41Z"
+    },
+    {
+      "name": "skill-creator",
+      "score": 0.9955,
+      "score_7d": 1.0,
+      "total_votes": 1,
+      "votes_7d": 1,
+      "positive_votes": 1,
+      "negative_votes": 0,
+      "unique_voters": 1,
+      "last_voted": "2026-02-28T03:30:30Z"
+    },
+    {
+      "name": "task-decomposer",
+      "score": 0.9955,
+      "score_7d": 1.0,
+      "total_votes": 1,
+      "votes_7d": 1,
+      "positive_votes": 1,
+      "negative_votes": 0,
+      "unique_voters": 1,
+      "last_voted": "2026-02-28T03:31:01Z"
+    },
+    {
+      "name": "weather",
+      "score": 0.9955,
+      "score_7d": 1.0,
+      "total_votes": 1,
+      "votes_7d": 1,
+      "positive_votes": 1,
+      "negative_votes": 0,
+      "unique_voters": 1,
+      "last_voted": "2026-02-28T03:30:27Z"
     }
   ]
 }
