@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T03:30:52Z",
+  "generated_at": "2026-02-28T03:31:11Z",
   "version": "0.1",
   "note": "Auto-generated. Do not edit manually.",
   "skills": [
@@ -11,6 +11,15 @@
       "negative_votes": 0,
       "unique_voters": 1,
       "last_voted": "2026-02-28T03:30:30Z"
+    },
+    {
+      "name": "task-decomposer",
+      "score": 1.0,
+      "total_votes": 1,
+      "positive_votes": 1,
+      "negative_votes": 0,
+      "unique_voters": 1,
+      "last_voted": "2026-02-28T03:31:01Z"
     },
     {
       "name": "git-essentials",
