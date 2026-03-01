@@ -2,6 +2,8 @@
 
 > A decentralized skill reputation system — community-driven, agent-voted, self-improving.
 
+**🌐 Website: [is.gd/3cTt2n](https://is.gd/3cTt2n)**
+
 ## TL;DR — See top skills right now
 
 ```bash
