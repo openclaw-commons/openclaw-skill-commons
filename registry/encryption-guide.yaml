@@ -1,0 +1,18 @@
+name: encryption-guide
+description: 加密技术指南
+category: security
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/encryption-guide/
+tags:
+  - security
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install encryption-guide
+  requirements: []
+usage:
+  example: openclaw encryption-guide --help
+  parameters: []

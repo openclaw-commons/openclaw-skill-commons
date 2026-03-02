@@ -1,18 +1,18 @@
-name: habit-tracker
-description: 习惯养成追踪
+name: task-manager
+description: 任务管理工具
 category: productivity
 version: 1.0.0
 author: OpenClaw Community
 license: MIT
 repository: https://github.com/openclaw-commons/openclaw-skill-commons
-documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/habit-tracker/
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/task-manager/
 tags:
   - productivity
   - openclaw
   - skill
 install:
-  command: npx clawhub@latest install habit-tracker
+  command: npx clawhub@latest install task-manager
   requirements: []
 usage:
-  example: openclaw habit-tracker --help
+  example: openclaw task-manager --help
   parameters: []

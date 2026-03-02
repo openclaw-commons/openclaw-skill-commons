@@ -1,0 +1,18 @@
+name: cloud-cost-optimizer
+description: 云成本优化
+category: cloud
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/cloud-cost-optimizer/
+tags:
+  - cloud
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install cloud-cost-optimizer
+  requirements: []
+usage:
+  example: openclaw cloud-cost-optimizer --help
+  parameters: []

@@ -1,0 +1,18 @@
+name: slack-integration
+description: Slack 集成
+category: collab
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/slack-integration/
+tags:
+  - collab
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install slack-integration
+  requirements: []
+usage:
+  example: openclaw slack-integration --help
+  parameters: []

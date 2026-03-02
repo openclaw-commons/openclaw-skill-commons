@@ -1,0 +1,18 @@
+name: readme-template
+description: README 模板
+category: docs
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/readme-template/
+tags:
+  - docs
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install readme-template
+  requirements: []
+usage:
+  example: openclaw readme-template --help
+  parameters: []

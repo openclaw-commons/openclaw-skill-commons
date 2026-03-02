@@ -1,0 +1,18 @@
+name: code-review-ai
+description: AI 代码审查
+category: ai
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/code-review-ai/
+tags:
+  - ai
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install code-review-ai
+  requirements: []
+usage:
+  example: openclaw code-review-ai --help
+  parameters: []

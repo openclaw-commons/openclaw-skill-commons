@@ -1,0 +1,18 @@
+name: presentation-maker
+description: 演示文稿制作
+category: docs
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/presentation-maker/
+tags:
+  - docs
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install presentation-maker
+  requirements: []
+usage:
+  example: openclaw presentation-maker --help
+  parameters: []

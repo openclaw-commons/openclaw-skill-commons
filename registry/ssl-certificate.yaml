@@ -1,0 +1,18 @@
+name: ssl-certificate
+description: SSL 证书管理
+category: devops
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/ssl-certificate/
+tags:
+  - devops
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install ssl-certificate
+  requirements: []
+usage:
+  example: openclaw ssl-certificate --help
+  parameters: []

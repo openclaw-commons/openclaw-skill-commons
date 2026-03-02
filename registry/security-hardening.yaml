@@ -1,0 +1,18 @@
+name: security-hardening
+description: 服务器安全加固
+category: devops
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/security-hardening/
+tags:
+  - devops
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install security-hardening
+  requirements: []
+usage:
+  example: openclaw security-hardening --help
+  parameters: []

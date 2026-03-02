@@ -1,0 +1,18 @@
+name: team-dashboard
+description: 团队仪表盘
+category: collab
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/team-dashboard/
+tags:
+  - collab
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install team-dashboard
+  requirements: []
+usage:
+  example: openclaw team-dashboard --help
+  parameters: []

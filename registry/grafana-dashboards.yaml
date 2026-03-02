@@ -1,0 +1,18 @@
+name: grafana-dashboards
+description: 可视化仪表盘
+category: devops
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/grafana-dashboards/
+tags:
+  - devops
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install grafana-dashboards
+  requirements: []
+usage:
+  example: openclaw grafana-dashboards --help
+  parameters: []

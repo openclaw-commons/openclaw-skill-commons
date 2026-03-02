@@ -1,0 +1,18 @@
+name: excel-automation
+description: Excel 自动化
+category: data
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/excel-automation/
+tags:
+  - data
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install excel-automation
+  requirements: []
+usage:
+  example: openclaw excel-automation --help
+  parameters: []

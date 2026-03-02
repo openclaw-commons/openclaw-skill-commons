@@ -1,0 +1,18 @@
+name: font-finder
+description: 字体识别
+category: media
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/font-finder/
+tags:
+  - media
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install font-finder
+  requirements: []
+usage:
+  example: openclaw font-finder --help
+  parameters: []

@@ -1,0 +1,18 @@
+name: qa-checklist
+description: QA 检查清单
+category: test
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/qa-checklist/
+tags:
+  - test
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install qa-checklist
+  requirements: []
+usage:
+  example: openclaw qa-checklist --help
+  parameters: []

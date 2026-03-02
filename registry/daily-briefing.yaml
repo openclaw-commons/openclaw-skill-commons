@@ -1,9 +1,18 @@
 name: daily-briefing
-slug: daily-briefing
-description: Generate a warm, concise daily briefing. Summarizes what needs attention.
-clawhub_url: https://clawhub.ai/skills/daily-briefing
+description: 每日简报生成
+category: productivity
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/daily-briefing/
 tags:
   - productivity
-  - no-api-key
-requires_api_key: false
-submitted_at: "2026-02-28T03:16:11Z"
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install daily-briefing
+  requirements: []
+usage:
+  example: openclaw daily-briefing --help
+  parameters: []

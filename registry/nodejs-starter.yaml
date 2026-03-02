@@ -1,0 +1,18 @@
+name: nodejs-starter
+description: Node.js 项目模板
+category: dev
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/nodejs-starter/
+tags:
+  - dev
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install nodejs-starter
+  requirements: []
+usage:
+  example: openclaw nodejs-starter --help
+  parameters: []

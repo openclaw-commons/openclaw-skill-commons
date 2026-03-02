@@ -1,0 +1,18 @@
+name: text-summarization
+description: 文本自动摘要
+category: ai
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/text-summarization/
+tags:
+  - ai
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install text-summarization
+  requirements: []
+usage:
+  example: openclaw text-summarization --help
+  parameters: []

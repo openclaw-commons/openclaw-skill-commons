@@ -1,0 +1,18 @@
+name: log-analysis
+description: 日志分析工具
+category: devops
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/log-analysis/
+tags:
+  - devops
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install log-analysis
+  requirements: []
+usage:
+  example: openclaw log-analysis --help
+  parameters: []

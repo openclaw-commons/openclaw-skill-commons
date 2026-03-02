@@ -1,9 +1,18 @@
 name: docker-essentials
-slug: docker-essentials
-description: Docker commands and workflows — build, run, compose, inspect. No API key required.
-clawhub_url: https://clawhub.ai/skills/docker-essentials
+description: Docker 容器化基础
+category: dev
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/docker-essentials/
 tags:
-  - devops
-  - no-api-key
-requires_api_key: false
-submitted_at: "2026-02-28T03:16:11Z"
+  - dev
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install docker-essentials
+  requirements: []
+usage:
+  example: openclaw docker-essentials --help
+  parameters: []

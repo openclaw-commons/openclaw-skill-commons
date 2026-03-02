@@ -1,9 +1,18 @@
 name: github
-slug: github
-description: Interact with GitHub via gh CLI — issues, PRs, repos, gists.
-clawhub_url: https://clawhub.ai/skills/github
+description: GitHub CLI 和 API 交互
+category: dev
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/github/
 tags:
-  - git
-  - devops
-requires_api_key: true
-submitted_at: "2026-02-28T03:16:11Z"
+  - dev
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install github
+  requirements: []
+usage:
+  example: openclaw github --help
+  parameters: []

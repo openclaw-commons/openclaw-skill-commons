@@ -1,0 +1,18 @@
+name: security-test
+description: 安全测试
+category: test
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/security-test/
+tags:
+  - test
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install security-test
+  requirements: []
+usage:
+  example: openclaw security-test --help
+  parameters: []

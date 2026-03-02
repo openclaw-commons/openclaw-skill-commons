@@ -1,0 +1,18 @@
+name: container-registry
+description: 容器镜像仓库
+category: cloud
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/container-registry/
+tags:
+  - cloud
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install container-registry
+  requirements: []
+usage:
+  example: openclaw container-registry --help
+  parameters: []

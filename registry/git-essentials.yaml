@@ -1,10 +1,18 @@
 name: git-essentials
-slug: git-essentials
-description: Git commands and workflows — commit, branch, merge, rebase. No API key required.
-clawhub_url: https://clawhub.ai/skills/git-essentials
+description: Git 工作流和最佳实践
+category: dev
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/git-essentials/
 tags:
-  - git
-  - devops
-  - no-api-key
-requires_api_key: false
-submitted_at: "2026-02-28T03:16:11Z"
+  - dev
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install git-essentials
+  requirements: []
+usage:
+  example: openclaw git-essentials --help
+  parameters: []

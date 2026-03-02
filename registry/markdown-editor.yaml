@@ -1,0 +1,18 @@
+name: markdown-editor
+description: Markdown 编辑器
+category: docs
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/markdown-editor/
+tags:
+  - docs
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install markdown-editor
+  requirements: []
+usage:
+  example: openclaw markdown-editor --help
+  parameters: []

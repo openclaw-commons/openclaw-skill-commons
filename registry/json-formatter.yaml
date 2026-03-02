@@ -1,0 +1,18 @@
+name: json-formatter
+description: JSON 格式化工具
+category: data
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/json-formatter/
+tags:
+  - data
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install json-formatter
+  requirements: []
+usage:
+  example: openclaw json-formatter --help
+  parameters: []

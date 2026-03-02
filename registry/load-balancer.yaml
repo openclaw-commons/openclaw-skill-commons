@@ -1,0 +1,18 @@
+name: load-balancer
+description: 负载均衡器
+category: cloud
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/load-balancer/
+tags:
+  - cloud
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install load-balancer
+  requirements: []
+usage:
+  example: openclaw load-balancer --help
+  parameters: []

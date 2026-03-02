@@ -1,0 +1,18 @@
+name: zoom-automation
+description: Zoom 自动化
+category: collab
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+documentation: https://openclaw-commons.github.io/openclaw-skill-commons/skills/zoom-automation/
+tags:
+  - collab
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install zoom-automation
+  requirements: []
+usage:
+  example: openclaw zoom-automation --help
+  parameters: []
