@@ -1,0 +1,29 @@
+name: Daily Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每日 UTC 0 点
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      
+      - name: Generate Stats
+        run: |
+          python3 scripts/generate-stats.py
+          
+      - name: Commit Stats
+        run: |
+          git config user.email "stats@openclaw-commons"
+          git config user.name "Stats Bot"
+          git add stats/
+          git commit -m "chore: update daily stats $(date +%Y-%m-%d)" || exit 0
+          git push
