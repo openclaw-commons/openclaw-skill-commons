@@ -132,7 +132,7 @@ openclaw-skill-commons/
 
 | Metric | Value |
 |--------|-------|
-| **Total Skills** | 70+ |
+| **Total Skills** | 774+ |
 | **Total Votes** | Updated daily |
 | **Active Users** | Growing community |
 | **Stars** | ⭐ 1 (Help us grow!) |
