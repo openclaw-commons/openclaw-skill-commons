@@ -1,0 +1,15 @@
+name: zap-logging
+description: Zap Logging skill for OpenClaw
+category: go
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - go
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install zap-logging
+usage:
+  example: openclaw zap-logging --help

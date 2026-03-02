@@ -1,0 +1,15 @@
+name: tauri-desktop
+description: Tauri Desktop skill for OpenClaw
+category: rust
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - rust
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install tauri-desktop
+usage:
+  example: openclaw tauri-desktop --help

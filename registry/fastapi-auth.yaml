@@ -1,0 +1,15 @@
+name: fastapi-auth
+description: Fastapi Auth skill for OpenClaw
+category: python
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - python
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install fastapi-auth
+usage:
+  example: openclaw fastapi-auth --help

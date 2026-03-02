@@ -1,0 +1,15 @@
+name: serde-rust
+description: Serde Rust skill for OpenClaw
+category: rust
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - rust
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install serde-rust
+usage:
+  example: openclaw serde-rust --help

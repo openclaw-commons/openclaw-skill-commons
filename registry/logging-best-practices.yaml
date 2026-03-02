@@ -1,0 +1,15 @@
+name: logging-best-practices
+description: Logging Best Practices skill for OpenClaw
+category: general
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - general
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install logging-best-practices
+usage:
+  example: openclaw logging-best-practices --help

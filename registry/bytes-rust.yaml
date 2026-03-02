@@ -1,0 +1,15 @@
+name: bytes-rust
+description: Bytes Rust skill for OpenClaw
+category: general
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - general
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install bytes-rust
+usage:
+  example: openclaw bytes-rust --help

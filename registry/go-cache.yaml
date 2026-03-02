@@ -1,0 +1,15 @@
+name: go-cache
+description: Go Cache skill for OpenClaw
+category: general
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - general
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install go-cache
+usage:
+  example: openclaw go-cache --help

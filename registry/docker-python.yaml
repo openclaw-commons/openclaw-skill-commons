@@ -1,0 +1,15 @@
+name: docker-python
+description: Docker Python skill for OpenClaw
+category: general
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - general
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install docker-python
+usage:
+  example: openclaw docker-python --help

@@ -1,0 +1,15 @@
+name: fastify-speed
+description: Fastify Speed skill for OpenClaw
+category: general
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - general
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install fastify-speed
+usage:
+  example: openclaw fastify-speed --help

@@ -1,0 +1,15 @@
+name: envconfig-env
+description: Envconfig Env skill for OpenClaw
+category: general
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - general
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install envconfig-env
+usage:
+  example: openclaw envconfig-env --help

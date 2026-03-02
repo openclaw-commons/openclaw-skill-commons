@@ -1,0 +1,15 @@
+name: twirp-rpc
+description: Twirp Rpc skill for OpenClaw
+category: general
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - general
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install twirp-rpc
+usage:
+  example: openclaw twirp-rpc --help

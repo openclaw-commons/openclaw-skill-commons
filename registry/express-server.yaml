@@ -1,0 +1,15 @@
+name: express-server
+description: Express Server skill for OpenClaw
+category: nodejs
+version: 1.0.0
+author: OpenClaw Community
+license: MIT
+repository: https://github.com/openclaw-commons/openclaw-skill-commons
+tags:
+  - nodejs
+  - openclaw
+  - skill
+install:
+  command: npx clawhub@latest install express-server
+usage:
+  example: openclaw express-server --help
